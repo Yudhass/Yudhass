@@ -17,7 +17,7 @@ I am a versatilist and easily adapt to different topic (Back-End Web Developer, 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"/>
   
 ### 🧐 More About Me:
 
