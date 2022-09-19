@@ -12,6 +12,7 @@
 [![Chrome Badge](https://img.shields.io/badge/-Skuy.Replay.blogspot.com-3423A6?style=flat&logo=Google-Chrome&logoColor=whitee&link=https://skuy-replay.blogspot.com/)](https://skuy-replay.blogspot.com/)
 [![Chrome Badge](https://img.shields.io/badge/-Life.For.Coding.blogspot.com-3423A6?style=flat&logo=Google-Chrome&logoColor=whitee&link=https://life-for-coding.blogspot.com/)](https://life-for-coding.blogspot.com/)
 [![Chrome Badge](https://img.shields.io/badge/-Skuy.Replay.com-EB1D36?style=flat&logo=Google-Chrome&logoColor=whitee&link=http://skuy-replay.herokuapp.com/)](http://skuy-replay.herokuapp.com/)
+[![Chrome Badge](https://img.shields.io/badge/-Examp.WebApp.com-EB1D36?style=flat&logo=Google-Chrome&logoColor=whitee&link=https://statis-web02.000webhostapp.com/)](https://statis-web02.000webhostapp.com/)
 
 I am a versatilist and easily adapt to different topic (Back-End Web Developer, a little Front-End Developer 🌐, beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
 <br/>
