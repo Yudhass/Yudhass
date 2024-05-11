@@ -64,8 +64,7 @@ Support untuk tetap dapat memberikan tutorial dengan cara berdonasi.
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/YudhaDevelops/YudhaDevelops/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
