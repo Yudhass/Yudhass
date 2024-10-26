@@ -24,7 +24,7 @@ I'm easily adapt to different topic about Back-End Web Developer, a little Front
   
 ### 🧐 More About Me:
 
-- 🌐 &nbsp; [My portfolio](https://yudhass.github.io/profile/)
+- 🌐 &nbsp; [My portfolio](https://yudhadev.my.id/)
 - 🔭 &nbsp; I'm currently focus on studying at **USD University**
 - 🤝 &nbsp; I can collaborate with you on Back-End Developer
 - 🌱 &nbsp; I'm currently learning about Java, Laravel, and Python 
