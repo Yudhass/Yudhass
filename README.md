@@ -1,96 +1,24 @@
-<h2> Hi, I'm Yudha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<hr class="garis_sendiri"></hr>
-<p><em>I'm a student from one of the <a href="#">Universities at Yogyakarta</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  </br>Back-End Web Developer from <a href="#">Lampung</a>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em> </p>
+# 💫 About Me:
+Saya seorang Backend Developer dari Lampung, yang mengkhususkan diri dalam Laravel, baik untuk aplikasi web tradisional maupun pengembangan API. Dengan pengalaman luas dalam menciptakan sistem yang tangguh dan dapat diskalakan, saya gemar memecahkan masalah yang rumit dan memberikan solusi yang efisien dan berkualitas tinggi.<br><br>Selama bertahun-tahun, saya telah mengasah keterampilan saya dalam mengembangkan dan mengelola sistem backend yang komprehensif, dengan fokus pada memastikan fungsionalitas, keamanan, dan kinerja. Salah satu proyek penting saya melibatkan pembuatan sistem informasi berbasis API untuk mengelola respons bencana alam menggunakan Laravel. Proyek ini memerlukan integrasi data yang lancar, pembaruan waktu nyata, dan keandalan tinggi, yang semuanya berhasil saya terapkan.<br><br>Pendekatan saya terhadap pengembangan menekankan kode yang bersih, penanganan data yang efisien, dan praktik keamanan yang tangguh. Saya senang berkolaborasi dengan tim untuk mewujudkan ide-ide inovatif dan memastikan bahwa produk akhir tidak hanya memenuhi tetapi juga melampaui harapan klien. Sasaran saya adalah menciptakan sistem yang tidak hanya kuat dan andal tetapi juga ramah pengguna dan mudah dirawat.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-FX.Bima.Yudha.Pratama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fx-bima-yudha-pratama-1117b5227)](https://www.linkedin.com/in/fx-bima-yudha-pratama-1117b5227)
-[![Twitter Badge](https://img.shields.io/badge/-@dakuenjeru02-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dakuenjeru02?t=mD-Ef1_AwSFVULg1Q-Bnow&s=09)](https://twitter.com/dakuenjeru02?t=mD-Ef1_AwSFVULg1Q-Bnow&s=09) 
-[![Facebook Badge](https://img.shields.io/badge/-@Yudha-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/yudha.developer)](https://www.facebook.com/yudha.developer)
-[![Instagram Badge](https://img.shields.io/badge/-@Yudhas.Iskariot-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/yudhas____/)](https://www.instagram.com/yudhas____/)
-[![Chrome Badge](https://img.shields.io/badge/-Skuy.Replay.blogspot.com-3423A6?style=flat&logo=Google-Chrome&logoColor=whitee&link=https://skuy-replay.blogspot.com/)](https://skuy-replay.blogspot.com/)
-[![Chrome Badge](https://img.shields.io/badge/-Life.For.Coding.blogspot.com-3423A6?style=flat&logo=Google-Chrome&logoColor=whitee&link=https://life-for-coding.blogspot.com/)](https://life-for-coding.blogspot.com/)
-[![Chrome Badge](https://img.shields.io/badge/-Skuy.Replay.com-EB1D36?style=flat&logo=Google-Chrome&logoColor=whitee&link=http://skuy-replay.herokuapp.com/)](http://skuy-replay.herokuapp.com/)
-[![Chrome Badge](https://img.shields.io/badge/-Examp.WebApp.com-EB1D36?style=flat&logo=Google-Chrome&logoColor=whitee&link=https://statis-web02.000webhostapp.com/)](https://statis-web02.000webhostapp.com/)
-[![Chrome Badge](https://img.shields.io/badge/-Data.Pegawai.com-EB1D36?style=flat&logo=Google-Chrome&logoColor=whitee&link=[https://statis-web02.000webhostapp.com/](https://happyngoding02.000webhostapp.com/))]([https://statis-web02.000webhostapp.com/](https://happyngoding02.000webhostapp.com/))
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yudha.developer) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yudhas___) 
 
-I'm easily adapt to different topic about Back-End Web Developer, a little Front-End Developer 🌐, beginner level Designer 🎨 depending on what the project requires. I love exploring something new about technology 💻 and use them to build a cool stuffs 🛠️
-<br/>
-<br/>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yudhass&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yudhass&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudhass&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"/>
-  
-### 🧐 More About Me:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Yudhass&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌐 &nbsp; [My portfolio](https://yudhadev.my.id/)
-- 🔭 &nbsp; I'm currently focus on studying at **USD University**
-- 🤝 &nbsp; I can collaborate with you on Back-End Developer
-- 🌱 &nbsp; I'm currently learning about Java, Laravel, and Python 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/boim212?tab=repositories)
-- 💬 &nbsp; Ask me anything about technology, I'll help you
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/fx-bima-yudha-pratama-1117b5227) and bimaboim10@gmail.com 
-<!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing) -->
-<!-- - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yudhass&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Yudhass&icon=5&color=1)](https://visitcount.itsvg.in)
 
-### 🔨 Languages and Tools:
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="java"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/boim212/boim212/main/laravel-2.svg" alt="laravel"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/YudhaDevelops/YudhaDevelops/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
-<p align="center">
-  <div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fx-bima-yudha-pratama-1117b5227">
-        <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-     </a>
-     <a style="margin-left: 10px;" target="_blank" href="https://github.com/boim212">
-        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-     </a>
-     <a style="margin-left: 10px;" target="_blank" href="https://github.com/YudhaDevelops">
-        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-     </a>
-     <a style="margin-left: 10px;" target="_blank" href="https://github.com/YuIsCode">
-        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-     </a>
-     <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19931913/happy-ngoding?tab=profile">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
-     </a>
-     <a style="margin-left: 10px;" target="_blank" href="https://dev.to/yudhadevelops">
-        <img src="https://i.ibb.co/0C3GjDb/dev-to2.png">
-     </a>
-     <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yudhas____/">
-        <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-     </a>
-     <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/dakuenjeru02?t=mD-Ef1_AwSFVULg1Q-Bnow&s=09">
-        <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" >
-     </a>
-     <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC7rdusxKbmMiExUaD369p5A">
-        <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" >
-     </a>
-     <!--<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-        <img src="https://img.icons8.com/plasticine/0.5x/resume.png" >
-     </a> -->
-    </div>
-</p>
-<div align=center>
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-    <p>Loading</p>
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
