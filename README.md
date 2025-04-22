@@ -12,8 +12,8 @@ Saya adalah Backend Developer asal Lampung yang berfokus pada Laravel untuk peng
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yudhass&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudhass&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Dev Quote
+## "Lebih baik kalah setelah mencoba, Daripada kalah sebelum mencoba".
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yudhass&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
